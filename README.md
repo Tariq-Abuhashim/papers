@@ -7,3 +7,7 @@
 
 ### Point-Clouds
 [Difference of Normals as a Multi-Scale Operator in Unorganized Point Clouds](https://arxiv.org/abs/1209.1759)
+
+### SLAM
+
+### Language Modelling
