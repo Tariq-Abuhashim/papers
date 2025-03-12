@@ -5,12 +5,12 @@
 [DETRs Beat YOLOs on Real-time Object Detection](https://arxiv.org/abs/2304.08069)  
 [RT-DETRv3: Real-time End-to-End Object Detection with Hierarchical Dense Positive Supervision](https://arxiv.org/abs/2409.08475)
 
-### Language Modelling
+### Language
 [Attention Is All You Need](https://arxiv.org/abs/1706.03762)  
 [An Image is Worth 16x16 Words: Transformers for Image Recognition at Scale](https://arxiv.org/abs/2010.11929)  
 []()  
 
-### Multimodal Modelling
+### Multimodal
 [PaLM-E: An Embodied Multimodal Language Model](https://arxiv.org/abs/2303.03378)  
 [M2T2: Multi-Task Masked Transformer for Object-centric Pick and Place](https://arxiv.org/abs/2311.00926)  
 []()
