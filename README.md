@@ -30,14 +30,17 @@
 [Global Structure-from-Motion Revisited](https://arxiv.org/abs/2407.20219)  
 [Supplementary Material for “3D Line Mapping Revisited”](http://b1ueber2y.me/projects/LIMAP/limap-supp.pdf)  
 [3D Line Mapping Revisited](https://arxiv.org/abs/2303.17504)  
- 
 
-### LiDAR SLAM
-[]()  
-[]()  
+
+### LiDAR SLAM 
+[Faster-LIO: Lightweight Tightly Coupled Lidar-Inertial Odometry Using Parallel Sparse Incremental Voxels](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9718203)  
 []()
+
+### Kumar Lab
+[TreeScope: An Agricultural Robotics Dataset for LiDAR-Based Mapping of Trees in Forests and Orchards](https://arxiv.org/abs/2310.02162)  
+[]()  
 
 ### Language Modelling
+[Attention Is All You Need](https://arxiv.org/abs/1706.03762)  
+[An Image is Worth 16x16 Words: Transformers for Image Recognition at Scale](https://arxiv.org/abs/2010.11929)  
 []()  
-[]()  
-[]()
