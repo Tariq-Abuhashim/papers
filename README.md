@@ -6,9 +6,11 @@
 [RT-DETRv3: Real-time End-to-End Object Detection with Hierarchical Dense Positive Supervision](https://arxiv.org/abs/2409.08475)
 
 ### Point-Clouds
-[Difference of Normals as a Multi-Scale Operator in Unorganized Point Clouds](https://arxiv.org/abs/1209.1759)
-[PointNet: Deep Learning on Point Sets for 3D Classification and Segmentation](https://arxiv.org/abs/1612.00593)
-[PointNet++: Deep Hierarchical Feature Learning on Point Sets in a Metric Space](https://arxiv.org/abs/1706.02413)
+[Difference of Normals as a Multi-Scale Operator in Unorganized Point Clouds](https://arxiv.org/abs/1209.1759)  
+[PointNet: Deep Learning on Point Sets for 3D Classification and Segmentation](https://arxiv.org/abs/1612.00593)  
+[PointNet++: Deep Hierarchical Feature Learning on Point Sets in a Metric Space](https://arxiv.org/abs/1706.02413)  
+[VoxelNet: End-to-End Learning for Point Cloud Based 3D Object Detection](https://arxiv.org/abs/1711.06396)  
+[PointPillars: Fast Encoders for Object Detection from Point Clouds](https://arxiv.org/abs/1812.05784)  
 
 ### SLAM
 
