@@ -11,16 +11,15 @@
 [Language Models are Few-Shot Learners](https://arxiv.org/abs/2005.14165)  
 [OpenAI Agents SDK](https://github.com/openai/openai-agents-python?tab=readme-ov-file)  
 [MetaGPT: The Multi-Agent Framework](https://github.com/geekan/MetaGPT)  
-[DeepSeek-V3 Technical Report](https://arxiv.org/abs/2412.19437)  
 [DeepSeekMoE: Towards Ultimate Expert Specialization in Mixture-of-Experts Language Models](https://arxiv.org/abs/2401.06066)  
-[]()  
+[Auxiliary-Loss-Free Load Balancing Strategy for Mixture-of-Experts](https://arxiv.org/abs/2408.15664)  
+[DeepSeek-V3 Technical Report](https://arxiv.org/abs/2412.19437)  
 
 ### Multimodal
 [An Image is Worth 16x16 Words: Transformers for Image Recognition at Scale](https://arxiv.org/abs/2010.11929)  
 [PaLM-E: An Embodied Multimodal Language Model](https://arxiv.org/abs/2303.03378)  
 [M2T2: Multi-Task Masked Transformer for Object-centric Pick and Place](https://arxiv.org/abs/2311.00926)  
 []()
-
 
 ### Visual SLAM
 [ORB-SLAM2: an Open-Source SLAM System for Monocular, Stereo and RGB-D Cameras](https://arxiv.org/abs/1610.06475)  
@@ -51,7 +50,6 @@
 [Global Structure-from-Motion Revisited](https://arxiv.org/abs/2407.20219)  
 [Supplementary Material for “3D Line Mapping Revisited”](http://b1ueber2y.me/projects/LIMAP/limap-supp.pdf)  
 [3D Line Mapping Revisited](https://arxiv.org/abs/2303.17504)  
-
 
 ### LiDAR SLAM 
 [Faster-LIO: Lightweight Tightly Coupled Lidar-Inertial Odometry Using Parallel Sparse Incremental Voxels](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9718203)  
