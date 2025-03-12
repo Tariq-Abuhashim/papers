@@ -18,7 +18,18 @@
 [Probabilistic Semi-Dense Mapping from Highly Accurate Feature-Based Monocular SLAM](https://www.roboticsproceedings.org/rss11/p41.pdf)  
 [DROID-SLAM: Deep Visual SLAM for Monocular, Stereo, and RGB-D Cameras](https://arxiv.org/abs/2108.10869)  
 
+### Structure from Motion
+[Global Structure-from-Motion Revisited](https://arxiv.org/abs/2407.20219)  
+[Supplementary Material for “3D Line Mapping Revisited”](http://b1ueber2y.me/projects/LIMAP/limap-supp.pdf)  
+[3D Line Mapping Revisited](https://arxiv.org/abs/2303.17504)  
+ 
 
 ### LiDAR SLAM
+[]()  
+[]()  
+[]()
 
 ### Language Modelling
+[]()  
+[]()  
+[]()
