@@ -11,6 +11,10 @@
 []()  
 
 ### Multimodal Modelling
+[PaLM-E: An Embodied Multimodal Language Model](https://arxiv.org/abs/2303.03378)  
+[M2T2: Multi-Task Masked Transformer for Object-centric Pick and Place](https://arxiv.org/abs/2311.00926)  
+[]()
+
 
 ### Visual SLAM
 [ORB-SLAM2: an Open-Source SLAM System for Monocular, Stereo and RGB-D Cameras](https://arxiv.org/abs/1610.06475)  
