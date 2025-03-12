@@ -5,12 +5,10 @@
 [DETRs Beat YOLOs on Real-time Object Detection](https://arxiv.org/abs/2304.08069)  
 [RT-DETRv3: Real-time End-to-End Object Detection with Hierarchical Dense Positive Supervision](https://arxiv.org/abs/2409.08475)
 
-### Point-Clouds
-[Difference of Normals as a Multi-Scale Operator in Unorganized Point Clouds](https://arxiv.org/abs/1209.1759)  
-[PointNet: Deep Learning on Point Sets for 3D Classification and Segmentation](https://arxiv.org/abs/1612.00593)  
-[PointNet++: Deep Hierarchical Feature Learning on Point Sets in a Metric Space](https://arxiv.org/abs/1706.02413)  
-[VoxelNet: End-to-End Learning for Point Cloud Based 3D Object Detection](https://arxiv.org/abs/1711.06396)  
-[PointPillars: Fast Encoders for Object Detection from Point Clouds](https://arxiv.org/abs/1812.05784)  
+### Language Modelling
+[Attention Is All You Need](https://arxiv.org/abs/1706.03762)  
+[An Image is Worth 16x16 Words: Transformers for Image Recognition at Scale](https://arxiv.org/abs/2010.11929)  
+[]()  
 
 ### Visual SLAM
 [ORB-SLAM2: an Open-Source SLAM System for Monocular, Stereo and RGB-D Cameras](https://arxiv.org/abs/1610.06475)  
@@ -26,6 +24,17 @@
 [SlideSLAM: Sparse, Lightweight, Decentralized Metric-Semantic SLAM for Multi-Robot Navigation](https://arxiv.org/abs/2406.17249)  
 []()  
 
+### Point-Clouds
+[Difference of Normals as a Multi-Scale Operator in Unorganized Point Clouds](https://arxiv.org/abs/1209.1759)  
+[PointNet: Deep Learning on Point Sets for 3D Classification and Segmentation](https://arxiv.org/abs/1612.00593)  
+[PointNet++: Deep Hierarchical Feature Learning on Point Sets in a Metric Space](https://arxiv.org/abs/1706.02413)  
+[VoxelNet: End-to-End Learning for Point Cloud Based 3D Object Detection](https://arxiv.org/abs/1711.06396)  
+[PointPillars: Fast Encoders for Object Detection from Point Clouds](https://arxiv.org/abs/1812.05784)  
+[SEGCloud: Semantic Segmentation of 3D Point Clouds](https://arxiv.org/abs/1710.07563)  
+[Supplementary Material for SEGCloud: Semantic Segmentation of 3D Point Clouds](https://cvgl.stanford.edu/projects/segcloud/supplementary.pdf)  
+[Fast Range Image-Based Segmentation of Sparse 3D Laser Scans for Online Operation](https://www.ipb.uni-bonn.de/pdfs/bogoslavskyi16iros.pdf)  
+[]()
+
 ### Structure from Motion
 [Global Structure-from-Motion Revisited](https://arxiv.org/abs/2407.20219)  
 [Supplementary Material for “3D Line Mapping Revisited”](http://b1ueber2y.me/projects/LIMAP/limap-supp.pdf)  
@@ -40,7 +49,3 @@
 [TreeScope: An Agricultural Robotics Dataset for LiDAR-Based Mapping of Trees in Forests and Orchards](https://arxiv.org/abs/2310.02162)  
 []()  
 
-### Language Modelling
-[Attention Is All You Need](https://arxiv.org/abs/1706.03762)  
-[An Image is Worth 16x16 Words: Transformers for Image Recognition at Scale](https://arxiv.org/abs/2010.11929)  
-[]()  
