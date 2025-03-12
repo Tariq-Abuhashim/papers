@@ -9,6 +9,7 @@
 [Attention Is All You Need](https://arxiv.org/abs/1706.03762)  
 [Neural Networks: Zero to Hero](https://karpathy.ai/zero-to-hero.html)  
 [An Image is Worth 16x16 Words: Transformers for Image Recognition at Scale](https://arxiv.org/abs/2010.11929)  
+[OpenAI Agents SDK](https://github.com/openai/openai-agents-python?tab=readme-ov-file)  
 []()  
 
 ### Multimodal
