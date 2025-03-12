@@ -8,12 +8,13 @@
 ### Language
 [Attention Is All You Need](https://arxiv.org/abs/1706.03762)  
 [Neural Networks: Zero to Hero](https://karpathy.ai/zero-to-hero.html)  
-[An Image is Worth 16x16 Words: Transformers for Image Recognition at Scale](https://arxiv.org/abs/2010.11929)  
+[Language Models are Few-Shot Learners](https://arxiv.org/abs/2005.14165)  
 [OpenAI Agents SDK](https://github.com/openai/openai-agents-python?tab=readme-ov-file)  
 [MetaGPT: The Multi-Agent Framework](https://github.com/geekan/MetaGPT)  
-[]()  
+[DeepSeek-V3 Technical Report](https://arxiv.org/abs/2412.19437)  
 
 ### Multimodal
+[An Image is Worth 16x16 Words: Transformers for Image Recognition at Scale](https://arxiv.org/abs/2010.11929)  
 [PaLM-E: An Embodied Multimodal Language Model](https://arxiv.org/abs/2303.03378)  
 [M2T2: Multi-Task Masked Transformer for Object-centric Pick and Place](https://arxiv.org/abs/2311.00926)  
 []()
