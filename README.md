@@ -12,6 +12,8 @@
 [OpenAI Agents SDK](https://github.com/openai/openai-agents-python?tab=readme-ov-file)  
 [MetaGPT: The Multi-Agent Framework](https://github.com/geekan/MetaGPT)  
 [DeepSeek-V3 Technical Report](https://arxiv.org/abs/2412.19437)  
+[DeepSeekMoE: Towards Ultimate Expert Specialization in Mixture-of-Experts Language Models](https://arxiv.org/abs/2401.06066)  
+[]()  
 
 ### Multimodal
 [An Image is Worth 16x16 Words: Transformers for Image Recognition at Scale](https://arxiv.org/abs/2010.11929)  
