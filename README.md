@@ -17,6 +17,14 @@
 [ORB-SLAM3: An Accurate Open-Source Library for Visual, Visual-Inertial and Multi-Map SLAM](https://arxiv.org/abs/2007.11898)  
 [Probabilistic Semi-Dense Mapping from Highly Accurate Feature-Based Monocular SLAM](https://www.roboticsproceedings.org/rss11/p41.pdf)  
 [DROID-SLAM: Deep Visual SLAM for Monocular, Stereo, and RGB-D Cameras](https://arxiv.org/abs/2108.10869)  
+[Deep Patch Visual Odometry](https://arxiv.org/abs/2208.04726)  
+[Deep Patch Visual SLAM](https://arxiv.org/abs/2408.01654)  
+[]()
+
+### Collaborative SLAM
+[COVINS: Visual-Inertial SLAM for Centralized Collaboration](https://arxiv.org/abs/2108.05756)  
+[SlideSLAM: Sparse, Lightweight, Decentralized Metric-Semantic SLAM for Multi-Robot Navigation](https://arxiv.org/abs/2406.17249)  
+[]()  
 
 ### Structure from Motion
 [Global Structure-from-Motion Revisited](https://arxiv.org/abs/2407.20219)  
