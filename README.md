@@ -6,4 +6,4 @@
 [RT-DETRv3: Real-time End-to-End Object Detection with Hierarchical Dense Positive Supervision](https://arxiv.org/abs/2409.08475)
 
 ### Point-Clouds
-Difference of Normals as a Multi-Scale Operator in Unorganized Point Clouds(https://arxiv.org/abs/1209.1759)
+[Difference of Normals as a Multi-Scale Operator in Unorganized Point Clouds](https://arxiv.org/abs/1209.1759)
