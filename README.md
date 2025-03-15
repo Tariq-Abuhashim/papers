@@ -7,6 +7,7 @@
 
 ### Language
 [Attention Is All You Need](https://arxiv.org/abs/1706.03762)  
+[Transformer Self-Attention Mechanism Visualized](https://www.youtube.com/watch?v=u8pSGp__0Xk)  
 [Neural Networks: Zero to Hero](https://karpathy.ai/zero-to-hero.html)  
 [Language Models are Few-Shot Learners](https://arxiv.org/abs/2005.14165)  
 [OpenAI Agents SDK](https://github.com/openai/openai-agents-python?tab=readme-ov-file)  
