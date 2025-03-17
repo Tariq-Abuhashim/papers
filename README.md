@@ -66,4 +66,4 @@
 []()  
 
 ### Applications
-[Automatic number plate recognition with Python, Yolov8 and EasyOCR][video](https://www.youtube.com/watch?v=fyJB1t0o0ms), [code](https://github.com/computervisioneng/automatic-number-plate-recognition-python-yolov8)  
+Automatic number plate recognition with Python, Yolov8 and EasyOCR. [video](https://www.youtube.com/watch?v=fyJB1t0o0ms), [code](https://github.com/computervisioneng/automatic-number-plate-recognition-python-yolov8)  
