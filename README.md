@@ -65,3 +65,5 @@
 [TreeScope: An Agricultural Robotics Dataset for LiDAR-Based Mapping of Trees in Forests and Orchards](https://arxiv.org/abs/2310.02162)  
 []()  
 
+### Applications
+[Automatic number plate recognition with Python, Yolov8 and EasyOCR](https://www.youtube.com/watch?v=fyJB1t0o0ms)
