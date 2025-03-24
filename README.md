@@ -52,14 +52,12 @@
 - [**PointNet++**](https://arxiv.org/abs/1706.02413): Deep Hierarchical Feature Learning on Point Sets in a Metric Space.
 - [**VoxelNet**](https://arxiv.org/abs/1711.06396): End-to-End Learning for Point Cloud Based 3D Object Detection.
 - [**PointPillars**](https://arxiv.org/abs/1812.05784): Fast Encoders for Object Detection from Point Clouds.
-- [**SEGCloud**](https://arxiv.org/abs/1710.07563): Semantic Segmentation of 3D Point Clouds.
-- Supplementary Material for SEGCloud: Semantic Segmentation of 3D Point Clouds. [paper](https://cvgl.stanford.edu/projects/segcloud/supplementary.pdf)  
+- **SEGCloud**: Semantic Segmentation of 3D Point Clouds. [paper](https://arxiv.org/abs/1710.07563), [supplementary](https://cvgl.stanford.edu/projects/segcloud/supplementary.pdf)  
 []()
 
 ### Structure from Motion
 - [**GLOMAP**](https://arxiv.org/abs/2407.20219): Global Structure-from-Motion Revisited.
-- 3D Line Mapping Revisited. [paper](https://arxiv.org/abs/2303.17504)   
-- Supplementary Material for “3D Line Mapping Revisited”. [paper](http://b1ueber2y.me/projects/LIMAP/limap-supp.pdf)  
+- 3D Line Mapping Revisited. [paper](https://arxiv.org/abs/2303.17504), [supplementary](http://b1ueber2y.me/projects/LIMAP/limap-supp.pdf)  
  
 
 ### LiDAR SLAM 
