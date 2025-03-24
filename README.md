@@ -26,9 +26,9 @@
     - [**MASt3R-SLAM**](https://arxiv.org/abs/2412.12392): Real-Time Dense SLAM with 3D Reconstruction Priors.
 
 ### Multimodal
-- An Image is Worth 16x16 Words: Transformers for Image Recognition at Scale. [paper](https://arxiv.org/abs/2010.11929)  
-- **PaLM-E**: An Embodied Multimodal Language Model. [paper](https://arxiv.org/abs/2303.03378)  
-- **M2T2**: Multi-Task Masked Transformer for Object-centric Pick and Place. [paper](https://arxiv.org/abs/2311.00926)  
+- [**ViT**](https://arxiv.org/abs/2010.11929): An Image is Worth 16x16 Words: Transformers for Image Recognition at Scale.  
+- [**PaLM-E**](https://arxiv.org/abs/2303.03378): An Embodied Multimodal Language Model.
+- [**M2T2**](https://arxiv.org/abs/2311.00926): Multi-Task Masked Transformer for Object-centric Pick and Place.
 []()
 
 ### Visual SLAM
