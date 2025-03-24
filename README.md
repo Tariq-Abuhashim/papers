@@ -1,12 +1,12 @@
 ## List of key papers:
 ### DETR:
-- [DETR](https://arxiv.org/abs/2005.12872):End-to-End Object Detection with Transformers. 
+- [**DETR**](https://arxiv.org/abs/2005.12872):End-to-End Object Detection with Transformers. 
 - Deformable Convolutional Networks. [paper](https://arxiv.org/abs/1703.06211)  
 - [**Deformable DETR**](https://arxiv.org/abs/2010.04159): Deformable Transformers for End-to-End Object Detection.  
 - [**DAB-DETR**](https://arxiv.org/abs/2201.12329): Dynamic Anchor Boxes are Better Queries for DETR.  
 - [**DN-DETR**](https://arxiv.org/abs/2203.01305): Accelerate DETR Training by Introducing Query DeNoising.  
 - [**DINO**](https://arxiv.org/abs/2203.03605): DETR with Improved DeNoising AnchorBoxes for End-to-End Object Detection.  
-- [DETRs Beat YOLOs](https://arxiv.org/abs/2304.08069) on Real-time Object Detection.  
+- [**DETRs Beat YOLOs**](https://arxiv.org/abs/2304.08069) on Real-time Object Detection.  
 - [**RT-DETRv3**](https://arxiv.org/abs/2409.08475): Real-time End-to-End Object Detection with Hierarchical Dense Positive Supervision.
 
 ### Language
