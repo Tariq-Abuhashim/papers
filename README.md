@@ -2,12 +2,12 @@
 ### DETR:
 - End-to-End Object Detection with Transformers. [paper](https://arxiv.org/abs/2005.12872)  
 - Deformable Convolutional Networks. [paper](https://arxiv.org/abs/1703.06211)  
-- Deformable DETR: Deformable Transformers for End-to-End Object Detection. [paper](https://arxiv.org/abs/2010.04159)  
-- DAB-DETR: Dynamic Anchor Boxes are Better Queries for DETR. [paper](https://arxiv.org/abs/2201.12329)  
-- DN-DETR: Accelerate DETR Training by Introducing Query DeNoising. [paper](https://arxiv.org/abs/2203.01305)  
-- DINO: DETR with Improved DeNoising AnchorBoxes for End-to-End Object Detection. [paper](https://arxiv.org/abs/2203.03605)  
+- **Deformable DETR**: Deformable Transformers for End-to-End Object Detection. [paper](https://arxiv.org/abs/2010.04159)  
+- **DAB-DETR**: Dynamic Anchor Boxes are Better Queries for DETR. [paper](https://arxiv.org/abs/2201.12329)  
+- **DN-DETR**: Accelerate DETR Training by Introducing Query DeNoising. [paper](https://arxiv.org/abs/2203.01305)  
+- **DINO**: DETR with Improved DeNoising AnchorBoxes for End-to-End Object Detection. [paper](https://arxiv.org/abs/2203.03605)  
 - DETRs Beat YOLOs on Real-time Object Detection. [paper](https://arxiv.org/abs/2304.08069)  
-- RT-DETRv3: Real-time End-to-End Object Detection with Hierarchical Dense Positive Supervision. [paper](https://arxiv.org/abs/2409.08475)
+- **RT-DETRv3**: Real-time End-to-End Object Detection with Hierarchical Dense Positive Supervision. [paper](https://arxiv.org/abs/2409.08475)
 
 ### Language
 - Attention Is All You Need. [paper](https://arxiv.org/abs/1706.03762)  
@@ -22,12 +22,12 @@
 - DeepSeek-R1: Incentivizing Reasoning Capability in LLMs via Reinforcement Learning. [paper](https://arxiv.org/abs/2501.12948)
 - **SpatialLM**: Large Language Model for Spatial Understanding. [website](https://manycore-research.github.io/SpatialLM)
     - **SceneScript**: Reconstructing Scenes With An Autoregressive Structured Language Model. [paper](https://arxiv.org/abs/2403.13064)
-    - **MASt3R**-SLAM: Real-Time Dense SLAM with 3D Reconstruction Priors. [paper](https://arxiv.org/abs/2412.12392)
+    - **MASt3R-SLAM**: Real-Time Dense SLAM with 3D Reconstruction Priors. [paper](https://arxiv.org/abs/2412.12392)
 
 ### Multimodal
 - An Image is Worth 16x16 Words: Transformers for Image Recognition at Scale. [paper](https://arxiv.org/abs/2010.11929)  
-- PaLM-E: An Embodied Multimodal Language Model. [paper](https://arxiv.org/abs/2303.03378)  
-- M2T2: Multi-Task Masked Transformer for Object-centric Pick and Place. [paper](https://arxiv.org/abs/2311.00926)  
+- **PaLM-E**: An Embodied Multimodal Language Model. [paper](https://arxiv.org/abs/2303.03378)  
+- **M2T2**: Multi-Task Masked Transformer for Object-centric Pick and Place. [paper](https://arxiv.org/abs/2311.00926)  
 []()
 
 ### Visual SLAM
