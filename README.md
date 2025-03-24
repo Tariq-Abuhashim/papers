@@ -22,19 +22,19 @@
 - DeepSeek-R1: Incentivizing Reasoning Capability in LLMs via Reinforcement Learning. [paper](https://arxiv.org/abs/2501.12948)  
 
 ### Multimodal
-- [An Image is Worth 16x16 Words: Transformers for Image Recognition at Scale](https://arxiv.org/abs/2010.11929)  
-- [PaLM-E: An Embodied Multimodal Language Model](https://arxiv.org/abs/2303.03378)  
-- [M2T2: Multi-Task Masked Transformer for Object-centric Pick and Place](https://arxiv.org/abs/2311.00926)  
+- An Image is Worth 16x16 Words: Transformers for Image Recognition at Scale. [paper](https://arxiv.org/abs/2010.11929)  
+- PaLM-E: An Embodied Multimodal Language Model. [paper](https://arxiv.org/abs/2303.03378)  
+- M2T2: Multi-Task Masked Transformer for Object-centric Pick and Place. [paper](https://arxiv.org/abs/2311.00926)  
 []()
 
 ### Visual SLAM
-- [ORB-SLAM2: an Open-Source SLAM System for Monocular, Stereo and RGB-D Cameras](https://arxiv.org/abs/1610.06475)  
-- [ORB-SLAM3: An Accurate Open-Source Library for Visual, Visual-Inertial and Multi-Map SLAM](https://arxiv.org/abs/2007.11898)  
-- [Probabilistic Semi-Dense Mapping from Highly Accurate Feature-Based Monocular SLAM](https://www.roboticsproceedings.org/rss11/p41.pdf)  
-- [DROID-SLAM: Deep Visual SLAM for Monocular, Stereo, and RGB-D Cameras](https://arxiv.org/abs/2108.10869)  
-- [Deep Patch Visual Odometry](https://arxiv.org/abs/2208.04726)  
-- [Deep Patch Visual SLAM](https://arxiv.org/abs/2408.01654)  
-- [MASt3R-SLAM: Real-Time Dense SLAM with 3D Reconstruction Priors](https://arxiv.org/abs/2412.12392)  
+- ORB-SLAM2: an Open-Source SLAM System for Monocular, Stereo and RGB-D Cameras. [paper](https://arxiv.org/abs/1610.06475)  
+- ORB-SLAM3: An Accurate Open-Source Library for Visual, Visual-Inertial and Multi-Map SLAM. [paper](https://arxiv.org/abs/2007.11898)  
+- Probabilistic Semi-Dense Mapping from Highly Accurate Feature-Based Monocular SLAM. [paper](https://www.roboticsproceedings.org/rss11/p41.pdf)  
+- DROID-SLAM: Deep Visual SLAM for Monocular, Stereo, and RGB-D Cameras. [paper](https://arxiv.org/abs/2108.10869)  
+- Deep Patch Visual Odometry. [paper](https://arxiv.org/abs/2208.04726)  
+- Deep Patch Visual SLAM. [paper](https://arxiv.org/abs/2408.01654)  
+- MASt3R-SLAM: Real-Time Dense SLAM with 3D Reconstruction Priors. [paper](https://arxiv.org/abs/2412.12392)  
 []()
 
 ### Collaborative SLAM
