@@ -19,7 +19,9 @@
 - DeepSeekMoE: Towards Ultimate Expert Specialization in Mixture-of-Experts Language Models. [paper](https://arxiv.org/abs/2401.06066)  
 - Auxiliary-Loss-Free Load Balancing Strategy for Mixture-of-Experts. [paper](https://arxiv.org/abs/2408.15664)  
 - DeepSeek-V3 Technical Report. [paper](https://arxiv.org/abs/2412.19437)  
-- DeepSeek-R1: Incentivizing Reasoning Capability in LLMs via Reinforcement Learning. [paper](https://arxiv.org/abs/2501.12948)  
+- DeepSeek-R1: Incentivizing Reasoning Capability in LLMs via Reinforcement Learning. [paper](https://arxiv.org/abs/2501.12948)
+- SpatialLM: Large Language Model for Spatial Understanding  
+    - SceneScript: Reconstructing Scenes With An Autoregressive Structured Language Model
 
 ### Multimodal
 - An Image is Worth 16x16 Words: Transformers for Image Recognition at Scale. [paper](https://arxiv.org/abs/2010.11929)  
