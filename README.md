@@ -41,18 +41,18 @@
 []()
 
 ### Collaborative SLAM
-- COVINS: Visual-Inertial SLAM for Centralized Collaboration. [paper](https://arxiv.org/abs/2108.05756)  
-- SlideSLAM: Sparse, Lightweight, Decentralized Metric-Semantic SLAM for Multi-Robot Navigation. [paper](https://arxiv.org/abs/2406.17249)  
+- [**COVINS**](https://arxiv.org/abs/2108.05756): Visual-Inertial SLAM for Centralized Collaboration.
+- [**SlideSLAM**](https://arxiv.org/abs/2406.17249): Sparse, Lightweight, Decentralized Metric-Semantic SLAM for Multi-Robot Navigation. 
 []()  
 
 ### Point-Clouds
 - Difference of Normals as a Multi-Scale Operator in Unorganized Point Clouds. [paper](https://arxiv.org/abs/1209.1759)  
 - Fast Range Image-Based Segmentation of Sparse 3D Laser Scans for Online Operation. [paper](https://www.ipb.uni-bonn.de/pdfs/bogoslavskyi16iros.pdf)  
-- PointNet: Deep Learning on Point Sets for 3D Classification and Segmentation. [paper](https://arxiv.org/abs/1612.00593)  
-- PointNet++: Deep Hierarchical Feature Learning on Point Sets in a Metric Space. [paper](https://arxiv.org/abs/1706.02413)  
-- VoxelNet: End-to-End Learning for Point Cloud Based 3D Object Detection. [paper](https://arxiv.org/abs/1711.06396)  
-- PointPillars: Fast Encoders for Object Detection from Point Clouds. [paper](https://arxiv.org/abs/1812.05784)  
-- SEGCloud: Semantic Segmentation of 3D Point Clouds. [paper](https://arxiv.org/abs/1710.07563)  
+- [**PointNet**](https://arxiv.org/abs/1612.00593): Deep Learning on Point Sets for 3D Classification and Segmentation. 
+- [**PointNet++**](https://arxiv.org/abs/1706.02413): Deep Hierarchical Feature Learning on Point Sets in a Metric Space.
+- [**VoxelNet**](https://arxiv.org/abs/1711.06396): End-to-End Learning for Point Cloud Based 3D Object Detection.
+- [**PointPillars**](https://arxiv.org/abs/1812.05784): Fast Encoders for Object Detection from Point Clouds.
+- [**SEGCloud**](https://arxiv.org/abs/1710.07563): Semantic Segmentation of 3D Point Clouds.
 - Supplementary Material for SEGCloud: Semantic Segmentation of 3D Point Clouds. [paper](https://cvgl.stanford.edu/projects/segcloud/supplementary.pdf)  
 []()
 
