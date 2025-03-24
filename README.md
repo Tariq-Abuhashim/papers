@@ -20,9 +20,9 @@
 - Auxiliary-Loss-Free Load Balancing Strategy for Mixture-of-Experts. [paper](https://arxiv.org/abs/2408.15664)  
 - DeepSeek-V3 Technical Report. [paper](https://arxiv.org/abs/2412.19437)  
 - DeepSeek-R1: Incentivizing Reasoning Capability in LLMs via Reinforcement Learning. [paper](https://arxiv.org/abs/2501.12948)
-- **SpatialLM**: Large Language Model for Spatial Understanding. [website](https://manycore-research.github.io/SpatialLM)
-    - **SceneScript**: Reconstructing Scenes With An Autoregressive Structured Language Model. [paper](https://arxiv.org/abs/2403.13064)
-    - **MASt3R-SLAM**: Real-Time Dense SLAM with 3D Reconstruction Priors. [paper](https://arxiv.org/abs/2412.12392)
+- [**SpatialLM**](https://manycore-research.github.io/SpatialLM): Large Language Model for Spatial Understanding.
+    - [**SceneScript**](https://arxiv.org/abs/2403.13064): Reconstructing Scenes With An Autoregressive Structured Language Model.
+    - [**MASt3R-SLAM**](https://arxiv.org/abs/2412.12392): Real-Time Dense SLAM with 3D Reconstruction Priors.
 
 ### Multimodal
 - An Image is Worth 16x16 Words: Transformers for Image Recognition at Scale. [paper](https://arxiv.org/abs/2010.11929)  
