@@ -57,16 +57,17 @@
 []()
 
 ### Structure from Motion
-- Global Structure-from-Motion Revisited. [paper](https://arxiv.org/abs/2407.20219)  
+- [**GLOMAP**](https://arxiv.org/abs/2407.20219): Global Structure-from-Motion Revisited.
+- 3D Line Mapping Revisited. [paper](https://arxiv.org/abs/2303.17504)   
 - Supplementary Material for “3D Line Mapping Revisited”. [paper](http://b1ueber2y.me/projects/LIMAP/limap-supp.pdf)  
-- 3D Line Mapping Revisited. [paper](https://arxiv.org/abs/2303.17504)  
+ 
 
 ### LiDAR SLAM 
-- Faster-LIO: Lightweight Tightly Coupled Lidar-Inertial Odometry Using Parallel Sparse Incremental Voxels. [paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9718203)  
+- [**Faster-LIO**](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9718203): Lightweight Tightly Coupled Lidar-Inertial Odometry Using Parallel Sparse Incremental Voxels.  
 []()
 
 ### Kumar Lab
-- TreeScope: An Agricultural Robotics Dataset for LiDAR-Based Mapping of Trees in Forests and Orchards. [paper](https://arxiv.org/abs/2310.02162)  
+- [**TreeScope**](https://arxiv.org/abs/2310.02162): An Agricultural Robotics Dataset for LiDAR-Based Mapping of Trees in Forests and Orchards.  
 []()  
 
 ### Applications
