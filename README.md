@@ -33,7 +33,7 @@
 
 ### Visual SLAM
 - **ORB-SLAM**: [v2](https://arxiv.org/abs/1610.06475), [v3](https://arxiv.org/abs/2007.11898), [semi-Dense](https://www.roboticsproceedings.org/rss11/p41.pdf)  
-- [**DROID-SLAM**](https://arxiv.org/abs/2108.10869): Deep Visual SLAM for Monocular, Stereo, and RGB-D Cameras.
+- **DROID-SLAM**: Deep Visual SLAM for Monocular, Stereo, and RGB-D Cameras. [paper](https://arxiv.org/abs/2108.10869)
 - **Deep Patch**: a new deep learning system for monocular Visual [Odometry](https://arxiv.org/abs/2208.04726) and [SLAM](https://arxiv.org/abs/2408.01654)  
 []()
 
