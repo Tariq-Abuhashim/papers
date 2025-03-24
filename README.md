@@ -10,16 +10,16 @@ DETRs Beat YOLOs on Real-time Object Detection. [paper](https://arxiv.org/abs/23
 RT-DETRv3: Real-time End-to-End Object Detection with Hierarchical Dense Positive Supervision. [paper](https://arxiv.org/abs/2409.08475)
 
 ### Language
-[Attention Is All You Need](https://arxiv.org/abs/1706.03762)  
-[Transformer Self-Attention Mechanism Visualized](https://www.youtube.com/watch?v=u8pSGp__0Xk)  
-[Neural Networks: Zero to Hero](https://karpathy.ai/zero-to-hero.html)  
-[Language Models are Few-Shot Learners](https://arxiv.org/abs/2005.14165)  
-[OpenAI Agents SDK](https://github.com/openai/openai-agents-python?tab=readme-ov-file)  
-[MetaGPT: The Multi-Agent Framework](https://github.com/geekan/MetaGPT)  
-[DeepSeekMoE: Towards Ultimate Expert Specialization in Mixture-of-Experts Language Models](https://arxiv.org/abs/2401.06066)  
-[Auxiliary-Loss-Free Load Balancing Strategy for Mixture-of-Experts](https://arxiv.org/abs/2408.15664)  
-[DeepSeek-V3 Technical Report](https://arxiv.org/abs/2412.19437)  
-[DeepSeek-R1: Incentivizing Reasoning Capability in LLMs via Reinforcement Learning](https://arxiv.org/abs/2501.12948)  
+Attention Is All You Need. [paper](https://arxiv.org/abs/1706.03762)  
+Transformer Self-Attention Mechanism Visualized. [video](https://www.youtube.com/watch?v=u8pSGp__0Xk)  
+Neural Networks: Zero to Hero. [website](https://karpathy.ai/zero-to-hero.html)  
+Language Models are Few-Shot Learners. [paper](https://arxiv.org/abs/2005.14165)  
+OpenAI Agents SDK. [code](https://github.com/openai/openai-agents-python?tab=readme-ov-file)  
+MetaGPT: The Multi-Agent Framework. [code](https://github.com/geekan/MetaGPT)  
+DeepSeekMoE: Towards Ultimate Expert Specialization in Mixture-of-Experts Language Models. [paper](https://arxiv.org/abs/2401.06066)  
+Auxiliary-Loss-Free Load Balancing Strategy for Mixture-of-Experts. [paper](https://arxiv.org/abs/2408.15664)  
+DeepSeek-V3 Technical Report. [paper](https://arxiv.org/abs/2412.19437)  
+DeepSeek-R1: Incentivizing Reasoning Capability in LLMs via Reinforcement Learning. [paper](https://arxiv.org/abs/2501.12948)  
 
 ### Multimodal
 [An Image is Worth 16x16 Words: Transformers for Image Recognition at Scale](https://arxiv.org/abs/2010.11929)  
