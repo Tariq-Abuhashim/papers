@@ -15,11 +15,12 @@
 - Neural Networks: Zero to Hero. [website](https://karpathy.ai/zero-to-hero.html)  
 - Language Models are Few-Shot Learners. [paper](https://arxiv.org/abs/2005.14165)  
 - OpenAI Agents SDK. [code](https://github.com/openai/openai-agents-python?tab=readme-ov-file)  
-- MetaGPT: The Multi-Agent Framework. [code](https://github.com/geekan/MetaGPT)  
-- DeepSeekMoE: Towards Ultimate Expert Specialization in Mixture-of-Experts Language Models. [paper](https://arxiv.org/abs/2401.06066)  
-- Auxiliary-Loss-Free Load Balancing Strategy for Mixture-of-Experts. [paper](https://arxiv.org/abs/2408.15664)  
-- DeepSeek-V3 Technical Report. [paper](https://arxiv.org/abs/2412.19437)  
-- DeepSeek-R1: Incentivizing Reasoning Capability in LLMs via Reinforcement Learning. [paper](https://arxiv.org/abs/2501.12948)
+- MetaGPT: The Multi-Agent Framework. [code](https://github.com/geekan/MetaGPT)
+- **DeepSeek**:
+    - [**DeepSeekMoE**](https://arxiv.org/abs/2401.06066): Towards Ultimate Expert Specialization in Mixture-of-Experts Language Models.
+    - [**Auxiliary-Loss-Free**](https://arxiv.org/abs/2408.15664) Load Balancing Strategy for Mixture-of-Experts.
+    - [**DeepSeek-V3**](https://arxiv.org/abs/2412.19437) Technical Report.
+    - [**DeepSeek-R1**](https://arxiv.org/abs/2501.12948): Incentivizing Reasoning Capability in LLMs via Reinforcement Learning.
 - [**SpatialLM**](https://manycore-research.github.io/SpatialLM): Large Language Model for Spatial Understanding.
     - [**SceneScript**](https://arxiv.org/abs/2403.13064): Reconstructing Scenes With An Autoregressive Structured Language Model.
     - [**MASt3R-SLAM**](https://arxiv.org/abs/2412.12392): Real-Time Dense SLAM with 3D Reconstruction Priors.
