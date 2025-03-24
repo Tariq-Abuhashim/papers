@@ -34,6 +34,7 @@
 [DROID-SLAM: Deep Visual SLAM for Monocular, Stereo, and RGB-D Cameras](https://arxiv.org/abs/2108.10869)  
 [Deep Patch Visual Odometry](https://arxiv.org/abs/2208.04726)  
 [Deep Patch Visual SLAM](https://arxiv.org/abs/2408.01654)  
+[MASt3R-SLAM: Real-Time Dense SLAM with 3D Reconstruction Priors](https://arxiv.org/abs/2412.12392)  
 []()
 
 ### Collaborative SLAM
