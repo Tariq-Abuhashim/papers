@@ -76,7 +76,7 @@
 | [**ByteTrack**](https://arxiv.org/abs/2110.06864) | 2021 | Uses low-confidence detections | Better occlusion handling, near real-time |
 | [**OC-SORT**](https://arxiv.org/abs/2203.14360) | 2022 | Occlusion-aware motion model | Fewer ID switches |
 | [**BoT-SORT**](https://arxiv.org/abs/2206.14651) | 2022 | Motion + appearance + camera compensation | SOTA on MOT17/MOT20 |
-| [**StrongSORT**](https://arxiv.org/abs/2202.13514) | 2022 | BoT-SORT + stronger ReID | High accuracy, slower |
+| [**StrongSORT**](https://arxiv.org/abs/2202.13514) | 2022 | BoT-SORT + stronger ReID | High accuracy, slower [code](https://github.com/dyhBUPT/StrongSORT) [mmtracking](https://github.com/open-mmlab/mmtracking)|
 | [**MOTR**](https://arxiv.org/abs/2105.03247) | 2022 | Built upon DETR query-based tracking | Heavy but cutting-edge |
 
 - **Need speed?** → SORT or ByteTrack
