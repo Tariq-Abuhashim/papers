@@ -68,15 +68,16 @@
 
 **When to use what?** This table compares SORT with newer algorithms based on your needs:
 
-| Algorithm | Paper | Code | Key Strength | Best For | Speed (FPS) | MOTA ↑ |
-|-----------|-------|------|--------------|----------|------------|--------|
-| **[SORT](https://arxiv.org/abs/1602.00763)** | [Paper](https://arxiv.org/abs/1602.00763) | [Code](https://github.com/abewley/sort) | Real-time performance | Drones, robotics | ~260 | 60.3 |
-| **[DeepSORT](https://arxiv.org/abs/1703.07402)** | [Paper](https://arxiv.org/abs/1703.07402) | [Code](https://github.com/nwojke/deep_sort) | Appearance features | Crowded scenes, retail analytics | ~40 | 61.4 |
-| **[ByteTrack](https://arxiv.org/abs/2110.06864)** | [Paper](https://arxiv.org/abs/2110.06864) | [Code](https://github.com/ifzhang/ByteTrack) | Occlusion handling | almost as fast as SORT but much better | ~230 | 77.8 |
-| **[BoT-SORT](https://arxiv.org/abs/2206.14651)** | [Paper](https://arxiv.org/abs/2206.14651) | [Code](https://github.com/NirAharon/BOT-SORT) | Camera compensation | Crowded scenes, Street surveillance | ~50 | 80.2 |
-| **[OC-SORT](https://arxiv.org/abs/2203.14360)** | [Paper](https://arxiv.org/abs/2203.14360) | [Code](https://github.com/noahcao/OC_SORT) | Erratic motion | Crowded scenes, Sports analytics | ~60 | 78.1 |
-| **[MOTR]**() | [paper]() | [Code]() | End-to-end transformer, No separate detection, Long-term associations | Research/GPU-heavy apps | ~10 | x |
-*Benchmark metrics from MOT17 dataset. FPS tested on NVIDIA V100 GPU.*
+| Algorithm    | Year | Key Improvement | Paper | Notes |
+|--------------|------|-----------------|-------|-------|
+| **SORT** | 2016 | Real-time, Kalman filter + Hungarian algo | [arXiv:1602.00763](https://arxiv.org/abs/1602.00763) | Fast but prone to ID switches |
+| **DeepSORT** | 2017 | Adds appearance descriptors (ReID) | [arXiv:1703.07402](https://arxiv.org/abs/1703.07402) | More robust, slower than SORT |
+| **FairMOT** | 2020 | Joint detection + ReID (anchor-free) | [arXiv:2004.01888](https://arxiv.org/abs/2004.01888) | Good for crowded scenes |
+| **ByteTrack** | 2021 | Uses low-confidence detections | [arXiv:2110.06864](https://arxiv.org/abs/2110.06864) | Better occlusion handling, near real-time |
+| **OC-SORT** | 2022 | Occlusion-aware motion model | [arXiv:2203.14360](https://arxiv.org/abs/2203.14360) | Fewer ID switches |
+| **BoT-SORT** | 2022 | Motion + appearance + camera compensation | [arXiv:2206.14651](https://arxiv.org/abs/2206.14651) | SOTA on MOT17/MOT20 |
+| **StrongSORT** | 2022 | BoT-SORT + stronger ReID | [arXiv:2202.13514](https://arxiv.org/abs/2202.13514) | High accuracy, slower |
+| **MOTR** (Transformer) | 2022 | End-to-end query-based tracking | [arXiv:2105.03247](https://arxiv.org/abs/2105.03247) | Heavy but cutting-edge |
 
 - **Need speed?** → SORT or ByteTrack
 - **Crowded scenes?** → BoT-SORT or OC-SORT  
