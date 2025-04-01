@@ -61,12 +61,15 @@
 - [**Faster-LIO**](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9718203): Lightweight Tightly Coupled Lidar-Inertial Odometry Using Parallel Sparse Incremental Voxels.  
 []()
 
-### Kumar Lab
-- [**TreeScope**](https://arxiv.org/abs/2310.02162): An Agricultural Robotics Dataset for LiDAR-Based Mapping of Trees in Forests and Orchards.  
-[]()  
+### Object Tracking
+- SORT. [paper](https://arxiv.org/abs/1602.00763), [code](https://github.com/abewley/sort)
+- with deep association metric. [paper](https://arxiv.org/abs/1703.07402)
+- with deep cosine metric learning for re-identification. [paper](https://arxiv.org/abs/1812.00442), [code](https://github.com/nwojke/deep_sort)
 
 ### Applications
-- Automatic number plate recognition with Python, Yolov8 and EasyOCR. [video](https://www.youtube.com/watch?v=fyJB1t0o0ms), [code](https://github.com/computervisioneng/automatic-number-plate-recognition-python-yolov8)  
+- Automatic number plate recognition with Python, Yolov8 and EasyOCR. [video](https://www.youtube.com/watch?v=fyJB1t0o0ms), [code](https://github.com/computervisioneng/automatic-number-plate-recognition-python-yolov8)
+- [**TreeScope**](https://arxiv.org/abs/2310.02162): An Agricultural Robotics Dataset for LiDAR-Based Mapping of Trees in Forests and Orchards.  
+[]()  
 
 ### Website creation
 - The source [code](https://github.com/nerfies/nerfies.github.io) for the [Nerfies website](https://nerfies.github.io/).
