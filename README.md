@@ -63,7 +63,7 @@
 
 ### Object Tracking
 - SORT. [paper](https://arxiv.org/abs/1602.00763), [code](https://github.com/abewley/sort)
-- with deep association metric. [paper](https://arxiv.org/abs/1703.07402)
+- with deep association metric. [paper](https://arxiv.org/abs/1703.07402), [code](https://github.com/nwojke/deep_sort)
 - with deep cosine metric learning for re-identification. [paper](https://arxiv.org/abs/1812.00442), [code](https://github.com/nwojke/deep_sort)
 
 ### Applications
