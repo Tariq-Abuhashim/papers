@@ -62,16 +62,14 @@
 []()
 
 ### Object Tracking
-- SORT. [paper](https://arxiv.org/abs/1602.00763), [code](https://github.com/abewley/sort)
-- with deep association metric. [paper](https://arxiv.org/abs/1703.07402), [code](https://github.com/nwojke/deep_sort)
 - with deep cosine metric learning for re-identification. [paper](https://arxiv.org/abs/1812.00442)
 
-**When to use what?** This table compares SORT with newer algorithms based on your needs:
+**When to use what?** This table compares SORT with newer algorithms:
 
 | Algorithm    | Year | Key Improvement | Notes |
 |--------------|------|-----------------| -------|
-| [**SORT**](https://arxiv.org/abs/1602.00763) | 2016 | Real-time, Kalman filter + Hungarian algo | Fast but prone to ID switches |
-| [**DeepSORT**](https://arxiv.org/abs/1703.07402) | 2017 | Adds appearance descriptors (ReID) | More robust, slower than SORT |
+| [**SORT**](https://arxiv.org/abs/1602.00763) | 2016 | Real-time, Kalman filter + Hungarian algo | Fast but prone to ID switches [code](https://github.com/abewley/sort)|
+| [**DeepSORT**](https://arxiv.org/abs/1703.07402) | 2017 | Adds appearance descriptors (ReID) | More robust, slower than SORT [code](https://github.com/nwojke/deep_sort)|
 | [**FairMOT**](https://arxiv.org/abs/2004.01888) | 2020 | Joint detection + ReID (anchor-free) | Good for crowded scenes |
 | [**ByteTrack**](https://arxiv.org/abs/2110.06864) | 2021 | Uses low-confidence detections | Better occlusion handling, near real-time |
 | [**OC-SORT**](https://arxiv.org/abs/2203.14360) | 2022 | Occlusion-aware motion model | Fewer ID switches |
