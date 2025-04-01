@@ -64,7 +64,7 @@
 ### Object Tracking
 - SORT. [paper](https://arxiv.org/abs/1602.00763), [code](https://github.com/abewley/sort)
 - with deep association metric. [paper](https://arxiv.org/abs/1703.07402), [code](https://github.com/nwojke/deep_sort)
-- with deep cosine metric learning for re-identification. [paper](https://arxiv.org/abs/1812.00442), [code](https://github.com/nwojke/deep_sort)
+- with deep cosine metric learning for re-identification. [paper](https://arxiv.org/abs/1812.00442)
 
 ### Applications
 - Automatic number plate recognition with Python, Yolov8 and EasyOCR. [video](https://www.youtube.com/watch?v=fyJB1t0o0ms), [code](https://github.com/computervisioneng/automatic-number-plate-recognition-python-yolov8)
