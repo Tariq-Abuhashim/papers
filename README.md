@@ -66,6 +66,17 @@
 - with deep association metric. [paper](https://arxiv.org/abs/1703.07402), [code](https://github.com/nwojke/deep_sort)
 - with deep cosine metric learning for re-identification. [paper](https://arxiv.org/abs/1812.00442)
 
+| Algorithm    | Year | Key Improvement | Paper | Notes |
+|--------------|------|-----------------|-------|-------|
+| **SORT** | 2016 | Real-time, Kalman filter + Hungarian algo | [arXiv:1602.00763](https://arxiv.org/abs/1602.00763) | Fast but prone to ID switches |
+| **DeepSORT** | 2017 | Adds appearance descriptors (ReID) | [arXiv:1703.07402](https://arxiv.org/abs/1703.07402) | More robust, slower than SORT |
+| **FairMOT** | 2020 | Joint detection + ReID (anchor-free) | [arXiv:2004.01888](https://arxiv.org/abs/2004.01888) | Good for crowded scenes |
+| **ByteTrack** | 2021 | Uses low-confidence detections | [arXiv:2110.06864](https://arxiv.org/abs/2110.06864) | Better occlusion handling, near real-time |
+| **OC-SORT** | 2022 | Occlusion-aware motion model | [arXiv:2203.14360](https://arxiv.org/abs/2203.14360) | Fewer ID switches |
+| **BoT-SORT** | 2022 | Motion + appearance + camera compensation | [arXiv:2206.14651](https://arxiv.org/abs/2206.14651) | SOTA on MOT17/MOT20 |
+| **StrongSORT** | 2022 | BoT-SORT + stronger ReID | [arXiv:2202.13514](https://arxiv.org/abs/2202.13514) | High accuracy, slower |
+| **MOTR** (Transformer) | 2022 | End-to-end query-based tracking | [arXiv:2105.03247](https://arxiv.org/abs/2105.03247) | Heavy but cutting-edge |
+
 ### Applications
 - Automatic number plate recognition with Python, Yolov8 and EasyOCR. [video](https://www.youtube.com/watch?v=fyJB1t0o0ms), [code](https://github.com/computervisioneng/automatic-number-plate-recognition-python-yolov8)
 - [**TreeScope**](https://arxiv.org/abs/2310.02162): An Agricultural Robotics Dataset for LiDAR-Based Mapping of Trees in Forests and Orchards.  
