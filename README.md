@@ -75,7 +75,7 @@
 | **[ByteTrack](https://arxiv.org/abs/2110.06864)** | [Paper](https://arxiv.org/abs/2110.06864) | [Code](https://github.com/ifzhang/ByteTrack) | Occlusion handling | almost as fast as SORT but much better | ~230 | 77.8 |
 | **[BoT-SORT](https://arxiv.org/abs/2206.14651)** | [Paper](https://arxiv.org/abs/2206.14651) | [Code](https://github.com/NirAharon/BOT-SORT) | Camera compensation | Crowded scenes, Street surveillance | ~50 | 80.2 |
 | **[OC-SORT](https://arxiv.org/abs/2203.14360)** | [Paper](https://arxiv.org/abs/2203.14360) | [Code](https://github.com/noahcao/OC_SORT) | Erratic motion | Crowded scenes, Sports analytics | ~60 | 78.1 |
-| **[MOTR]**() | [paper]() | [Code]() | End-to-end transformer | No separate detection, Long-term associations | Research/GPU-heavy apps | ~10 | x |
+| **[MOTR]**() | [paper]() | [Code]() | End-to-end transformer, No separate detection, Long-term associations | Research/GPU-heavy apps | ~10 | x |
 *Benchmark metrics from MOT17 dataset. FPS tested on NVIDIA V100 GPU.*
 
 - **Need speed?** → SORT or ByteTrack
