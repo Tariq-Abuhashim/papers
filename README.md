@@ -62,10 +62,6 @@
 []()
 
 ### Object Tracking
-- with deep cosine metric learning for re-identification. [paper](https://arxiv.org/abs/1812.00442)
-
-**When to use what?** This table compares SORT with newer algorithms:
-
 | Algorithm    | Year | Key Improvement | Notes |
 |--------------|------|-----------------| -------|
 | [**SORT**](https://arxiv.org/abs/1602.00763) | 2016 | Real-time, Kalman filter + Hungarian algo | Fast but prone to ID switches [code](https://github.com/abewley/sort)|
@@ -75,12 +71,12 @@
 | [**OC-SORT**](https://arxiv.org/abs/2203.14360) | 2022 | Occlusion-aware motion model | Fewer ID switches |
 | [**BoT-SORT**](https://arxiv.org/abs/2206.14651) | 2022 | Motion + appearance + camera compensation | SOTA on MOT17/MOT20 |
 | [**StrongSORT**](https://arxiv.org/abs/2202.13514) | 2022 | BoT-SORT + stronger ReID | High accuracy, slower [code](https://github.com/dyhBUPT/StrongSORT) [mmtracking](https://github.com/open-mmlab/mmtracking)|
-| [**MOTR**](https://arxiv.org/abs/2105.03247) | 2022 | Built upon DETR query-based tracking | Heavy but cutting-edge |
+| [**MOTR**](https://arxiv.org/abs/2105.03247) | 2022 | Built upon DETR query-based tracking | Heavy but cutting-edge [code](https://github.com/megvii-research/MOTR)|
 
 - **Need speed?** → SORT or ByteTrack
 - **Crowded scenes?** → BoT-SORT or OC-SORT  
-- **Best accuracy?** → StrongSORT ([code](https://github.com/dyhBUPT/StrongSORT))
-- **Cutting-edge?** → MOTR ([code](https://github.com/megvii-research/MOTR))
+- **Best accuracy?** → StrongSORT
+- **Cutting-edge?** → MOTR
 
 ### Applications
 - Automatic number plate recognition with Python, Yolov8 and EasyOCR. [video](https://www.youtube.com/watch?v=fyJB1t0o0ms), [code](https://github.com/computervisioneng/automatic-number-plate-recognition-python-yolov8)
