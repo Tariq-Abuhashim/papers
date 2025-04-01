@@ -66,14 +66,6 @@
 - with deep association metric. [paper](https://arxiv.org/abs/1703.07402), [code](https://github.com/nwojke/deep_sort)
 - with deep cosine metric learning for re-identification. [paper](https://arxiv.org/abs/1812.00442)
 
-
-Copy
-# Multi-Object Tracking (MOT) Algorithm Comparison
-
-> Benchmarking SORT and modern alternatives for real-time tracking
-
-## 📊 Tracking Algorithm Performance Guide
-
 **When to use what?** This table compares SORT with newer algorithms based on your needs:
 
 | Algorithm | Paper | Code | Key Strength | Best For | Speed (FPS) | MOTA ↑ |
@@ -85,8 +77,6 @@ Copy
 | **[OC-SORT](https://arxiv.org/abs/2203.14360)** | [Paper](https://arxiv.org/abs/2203.14360) | [Code](https://github.com/noahcao/OC_SORT) | Erratic motion | Sports analytics | ~60 | 78.1 |
 
 *Benchmark metrics from MOT17 dataset. FPS tested on NVIDIA V100 GPU.*
-
-## 🚀 Quick Recommendations
 
 - **Need speed?** → SORT or ByteTrack
 - **Crowded scenes?** → BoT-SORT or OC-SORT  
