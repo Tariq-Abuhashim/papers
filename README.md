@@ -71,7 +71,8 @@
 | [**OC-SORT**](https://arxiv.org/abs/2203.14360) | 2022 | Occlusion-aware motion model | Fewer ID switches |
 | [**BoT-SORT**](https://arxiv.org/abs/2206.14651) | 2022 | Motion + appearance + camera compensation | SOTA on MOT17/MOT20 |
 | [**StrongSORT**](https://arxiv.org/abs/2202.13514) | 2022 | BoT-SORT + stronger ReID | High accuracy, slower [code](https://github.com/dyhBUPT/StrongSORT) [mmtracking](https://github.com/open-mmlab/mmtracking)|
-| [**MOTR**](https://arxiv.org/abs/2105.03247) | 2022 | Built upon DETR query-based tracking | Heavy but cutting-edge [code](https://github.com/megvii-research/MOTR)|
+| [**MOTR**](https://arxiv.org/abs/2105.03247) [**MOTRv2**](https://arxiv.org/abs/2211.09791)| 2022,2023 | Built upon DETR query-based tracking | Heavy but cutting-edge [code](https://github.com/megvii-research/MOTR) [code](https://github.com/megvii-research/MOTRv2)|
+| [**TransTrack**](https://arxiv.org/abs/2012.15460) [**TrackFormer**](https://arxiv.org/abs/2101.02702) | 2021 | Transformer-based | [code](https://github.com/PeizeSun/TransTrack) [code](https://github.com/TrackFormers)|
 
 - **Need speed?** → SORT or ByteTrack
 - **Crowded scenes?** → BoT-SORT or OC-SORT  
