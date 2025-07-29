@@ -81,6 +81,9 @@
 - **Best accuracy?** → StrongSORT
 - **Cutting-edge?** → MOTR
 
+### Drones
+- Learning vision-based agile flight via differentiable physics [project](https://henryhuyu.github.io/DiffPhysDrone_Web/)   
+
 ### Applications
 - Automatic number plate recognition with Python, Yolov8 and EasyOCR. [video](https://www.youtube.com/watch?v=fyJB1t0o0ms), [code](https://github.com/computervisioneng/automatic-number-plate-recognition-python-yolov8)
 - [**TreeScope**](https://arxiv.org/abs/2310.02162): An Agricultural Robotics Dataset for LiDAR-Based Mapping of Trees in Forests and Orchards.  
